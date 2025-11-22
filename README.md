@@ -1,4 +1,4 @@
-# QIK - Gestión de Productos 📱
+# Gestión de Productos 📱
 
 Una aplicación moderna de gestión de productos construida con **React Native + Expo** que consume una **API REST en .NET** con CRUD completo.
 
@@ -21,7 +21,6 @@ La aplicación se conecta a una API REST desarrollada en **.NET** para persistir
 - **Delete (DELETE)**: Eliminar productos con confirmación
 
 ### 🎨 Interfaz Moderna
-- Diseño basado en **paleta de colores QIK**
 - Componentes Material Design con `react-native-paper`
 - Interfaz limpia y profesional
 - Responsive en todas las plataformas
@@ -60,7 +59,7 @@ La aplicación se conecta a una API REST desarrollada en **.NET** para persistir
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/qik-productos.git
+git clone https://github.com/ediazgarcia/react-native-expo-client.git
 cd rn-expo-client
 ```
 
@@ -136,7 +135,7 @@ rn-expo-client/
         └── theme.ts              # Tema, colores, espaciado
 ```
 
-## 🎨 Paleta de Colores QIK
+## 🎨 Paleta de Colores
 
 | Color | Código | Uso |
 |-------|--------|-----|
@@ -272,7 +271,7 @@ DevProgramity - [DevProgramity](https://github.com/devprogramity)
 
 ## 🤝 Soporte
 
-Si encuentras algún problema, abre un [issue](https://github.com/tu-usuario/qik-productos/issues).
+Si encuentras algún problema, abre un [issue](https://github.com/ediazgarcia/react-native-expo-client/issues).
 
 ---
 
